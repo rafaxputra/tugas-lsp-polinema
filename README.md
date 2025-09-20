@@ -174,6 +174,11 @@ _Halaman untuk mengelola kategori surat_
 ![Tambah Kategori](screenshots/tambah-kategori.png)
 _Halaman untuk menambah kategori surat_
 
+### Form Tambah Surat
+
+![Edit Kategori](screenshots/edit-kategori.png)
+_Halaman untuk mengedit kategori surat_
+
 ### Modal Hapus Kategori
 
 ![Hapus Kategori](screenshots/hapus-kategori.png)
