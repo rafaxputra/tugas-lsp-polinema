@@ -42,12 +42,11 @@ Thumbs.db
 storage/app/public/letters/*
 !storage/app/public/letters/.gitkeep
 
-# Screenshots (user will add these manually)
-screenshots/
+# Screenshots are now included in repository
 !screenshots/.gitkeep
 !screenshots/README.md
-# Ignore placeholder files
-screenshots/*.placeholder
+# Include actual screenshot files
+!screenshots/*.png
 
 # Composer & NPM lock files
 composer.lock
